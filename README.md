@@ -4,7 +4,7 @@
 <img src="https://github.com/pierrialexander/Semana-SpringBoot-DsList/issues/1#issue-2060904755" width="800px" />
 </div>
 
-> Projeto simples de consulta de listagem de games, desenvolvido a caráter de estudo e testes de arquitetura e utilização do Framework Spring.
+> Projeto simples de consulta de listagem de games, desenvolvido a caráter de estudo e testes de arquitetura e utilização do Framework Spring. Também será usado para fins didáticos posteriormente.
 
 ### Ajustes e melhorias
 
@@ -19,8 +19,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 Antes de começar, verifique se você atende aos seguintes requisitos:
 
-- Você instalou a versão mais recente de `<Java JDK / Eclipse ou IntelliJ / Desenvoldido com a versão 17 LTS do Java>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
+- Instalar a versão mais recente de `<Java JDK / Eclipse ou IntelliJ / Desenvoldido com a versão 17 LTS do Java>`
 
 ## 🚀 Instalando o Projeto
 
