@@ -1,6 +1,6 @@
 # API de Game List - Praticando Spring Boot 3
 
-![imagem](https://github.com/pierrialexander/Semana-SpringBoot-DsList/tree/main/src/main/resources/static/imagem.png)
+![imagem](https://github.com/pierrialexander/Semana-SpringBoot-DsList/issues/1#issue-2060904755)
 
 > Projeto simples de consulta de listagem de games, desenvolvido a caráter de estudo e testes de arquitetura e utilização do Framework Spring.
 
